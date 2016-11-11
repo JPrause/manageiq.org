@@ -2,7 +2,7 @@
 title: Voting on Name of F Release
 author: chessbyte
 date: 2016-11-11 20:02:24 UTC
-tags: releases collaboration announcments
+tags: releases collaboration announcements
 comments: true
 published: true
 ---
